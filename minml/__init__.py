@@ -35,7 +35,7 @@
 
     :author: J. A. Corbal
     :copyright: (C) 2019, J. A. Corbal
-    :license: GNU GPL 3.0
+    :license: BSD 2-Clause "Simplified" License
 """
 
 from minml.minann import MinAnn
