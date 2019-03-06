@@ -1,0 +1,6 @@
+*~
+.*.sw?
+_tmp_
+*.ignore
+__pycache__
+
