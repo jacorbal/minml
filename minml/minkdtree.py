@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # vim: set ft=python fenc=utf-8 tw=72:
 
 # Heavily based on ``scpipy.spatial.KDTree``, this minimal KD-tree has

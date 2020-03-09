@@ -24,5 +24,5 @@ This module is based on Toby Segaran's model published in
 
 ---
 
-J. A. Corbal, 2019.
+J. A. Corbal, 2019-2020.
 
